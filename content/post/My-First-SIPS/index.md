@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My First SIPS: Rethinking Open Science"
-subtitle: ""
+title: "Rethinking Open Science"
+subtitle: "My First SIPS"
 summary: ""
 authors: 
 tags: 
