@@ -4,8 +4,13 @@
 title: "My First SIPS"
 subtitle: ""
 summary: ""
-authors: []
-tags: [Open Science][SIPS][Hackathon][Research Paradigm]
+authors: 
+tags: 
+- Open Science
+- SIPS
+- Hackathon
+- Research Paradigm
+
 categories: []
 date: 2021-06-26T16:16:05+01:00
 lastmod: 2021-06-26T16:16:05+01:00
@@ -17,7 +22,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: 
   caption: ""
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 
 # Projects (optional).
