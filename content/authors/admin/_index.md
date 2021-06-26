@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:veronica.lm@live.cn'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mengliuveronica
@@ -53,7 +53,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/meng-liu-689041197/
 - icon: osf
-  icon_pack: fab
+  icon_pack: fas
   link: https://osf.io/jbvwh/ 
 
 # Link to a PDF of your resume/CV.
