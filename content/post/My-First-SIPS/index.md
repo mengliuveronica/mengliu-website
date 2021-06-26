@@ -38,6 +38,7 @@ url_slides: ""
 url_video: ""
 
 ---
+
 On the first day of a personal new year (yes, just had my birthday yesterday🎂), I think it would be meaningful to do a bit of online celebration by writing my first blogpost on my first personal website.💃🏻
 
 It is indeed a blog worthy moment as I had quite a few firsts during the past few days, one of which was my first SIPS. Having been meaning to dip my toes in the world of Open Science for quite a while now, [SIPS2021](https://twitter.com/hashtag/SIPS2021?src=hashtag_click) gave me the opportunity to engage more actively with the greater community of psych people and think a bit deeper about the idea of OS and science reform. 
