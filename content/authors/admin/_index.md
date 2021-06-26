@@ -14,7 +14,7 @@ organizations:
   url: https://www.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary research interests lies at the intersection of educational psychology and multilingualism. I am interested in understanding learners who are learning multiple foreign languages concurrently, ranging from their motivation to their self-regulated learning. Another strand of my research interest lies in quantitative methodology and open research. I love using R and doing data analysis. 
+bio: My primary research interests lies at the intersection of Applied Linguistics and Educational Psychology. My PhD project aims to understand the motivation of learners who are learning multiple foreign languages concurrently. Another strand of my research interest lies in research methodology and metascience, ranging from research synthesis to the open science reform. I love using R and doing data analysis. 
 
 # Interests to show in About widget
 interests:
@@ -52,6 +52,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/meng-liu-689041197/
+- icon: osf
+  icon_pack: fab
+  link: https://osf.io/jbvwh/ 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,4 +70,11 @@ email: ""
 highlight_name: TRUE
 ---
 
-Meng Liu is a PhD candidate at the Second Language Education Group, Faculty of Education, University of Cambridge. Passionate about language education, she taught English in China, both in the private and public sectors, for over seven years before coming to Cambridge for her PhD. Her substantive research interest lies in the psychology of language learning, concerning topics such as motivation, self-concenpt, multilingualism and interculturality. She is also passionate about research methodology, with a particular interest in quantitative and mixed methods research, research synthesis and metascience. She is currently the Editor in Chief of Cambridge Educational Research e-Journal. 
+Meng Liu is a PhD candidate at the Second Language Education Group, Faculty of Education, University of Cambridge. Passionate about language education, she taught English in China, both in the private and public sectors, for over seven years before coming to Cambridge for her PhD. 
+
+Meng's substantive research interest lies in the psychology of language learning, concerning topics such as motivation, self-concept, multilingualism and interculturality. She is also passionate about research methodology, with a particular interest in quantitative and mixed methods research, research synthesis and metascience. 
+
+### Academic Roles and Services 
+* [Editor in Chief, Cambridge Educational Research e-Journal](https://cerj.educ.cam.ac.uk/editorial/).
+* [Data Champion, Univerisity of Cambridge](https://www.data.cam.ac.uk/data-champions-search?page=7)
+
