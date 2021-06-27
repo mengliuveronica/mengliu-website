@@ -6,7 +6,7 @@
 title: mengliu.org # Website name
 baseurl: '' # Website URL
 copyright: '© 2021 Meng Liu' # Footer text, e.g. '© {year} Me'
-
+googleanalytics: "G-5DCLQ7SY4G"
 ############################
 ## LANGUAGE
 ############################
