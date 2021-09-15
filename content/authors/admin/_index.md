@@ -21,7 +21,7 @@ interests:
 - Motivation
 - Multilingualism
 - Quantitative Methods (e.g., SEM, LPA)
-- Data Science in R
+- Data Science with R
 - Metascience & Open Research
 
 # Education to show in About widget
