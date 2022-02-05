@@ -5,6 +5,7 @@ publication_types:
 authors:
   - Meng Liu
   - Cecile De Cat
+doi: https://doi.org/10.31219/osf.io/kuf26
 publication: "*Open Science in Applied Linguisitcs* "
 abstract: The first official step toward Open Science (OS) in Applied
   Linguistics (AL) was arguably the establishment of IRIS, a discipline-specific
