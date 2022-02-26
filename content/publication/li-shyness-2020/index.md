@@ -4,7 +4,7 @@ publication_types:
 authors:
   - Caina Li
   - Yuan Wang
-  - "**Meng Liu**"
+  - Meng Liu
   - Cuicui Sun
   - Ying Yang
 doi: 10.1007/s10826-020-01823-0
@@ -40,5 +40,5 @@ subtitle: ""
 tags: []
 projects: []
 date: 2020-10-01
-publishDate: 2021-06-26T13:15:07.423679Z
+publishDate: 2021-06-26T13:15:07.423Z
 ---
