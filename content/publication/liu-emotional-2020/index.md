@@ -2,7 +2,7 @@
 publication_types:
   - "2"
 authors:
-  - __Meng Liu__
+  - Meng Liu
 doi: 10.1080/01434632.2020.1755294
 publication: "*Journal of Multilingual and Multicultural Development*"
 abstract: The present study contributes to the ﬁeld of L2 motivation by
