@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Flávio Azevedo
-  - Meng Liu
+  - "**Meng Liu**"
   - Charlotte R. Pennington
   - Madeleine Pownall
   - Thomas Rhys Evans
