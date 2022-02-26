@@ -30,6 +30,7 @@ abstract: Adopting a person-centred and multilingual perspective, this study
   combining person-centred techniques with a multilingual perceptive to produce
   a more nuanced and precise understanding of language learning motivation.
 draft: false
+url_pdf: https://www.researchgate.net/publication/358447600_Motivational_profiles_of_learners_of_multiple_foreign_languages_A_self-determination_theory_perspective
 featured: false
 image:
   filename: ""
