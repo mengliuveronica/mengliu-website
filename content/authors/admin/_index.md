@@ -14,14 +14,14 @@ organizations:
   url: https://www.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary research interests lies at the intersection of Applied Linguistics and Educational Psychology. My PhD project aims to understand the motivation of learners who are learning multiple foreign languages concurrently. Another strand of my research interest lies in research methodology and metascience, ranging from research synthesis to the open science reform. I love using R and doing data analysis. 
+bio: My primary research interests lies at the intersection of Applied Linguistics and Educational Psychology. My PhD project aims to understand the motivation of learners who are learning multiple foreign languages concurrently. Another strand of my research interest lies in research methodology and metascience, ranging from research synthesis to the open science reform. I am a huge fan of computational methods for social science research. 
 
 # Interests to show in About widget
 interests:
 - Motivation
 - Multilingualism
 - Quantitative Methods (e.g., SEM, LPA)
-- Data Science with R
+- Data Science with R (e.g., text mining)
 - Metascience & Open Research
 
 # Education to show in About widget
@@ -74,7 +74,8 @@ Meng Liu is a PhD candidate at the Second Language Education Group, Faculty of E
 
 Meng's substantive research interest lies in the psychology of language learning, concerning topics such as motivation, self-concept, multilingualism and interculturality. She is also passionate about research methodology, with a particular interest in quantitative and mixed methods research, research synthesis and metascience. 
 
-### Academic Roles and Services 
-* [Editor in Chief, Cambridge Educational Research e-Journal](https://cerj.educ.cam.ac.uk/editorial/).
+### Academic Roles and Services
+* [Founder/Convener, Open Applied Linguistics (AILA Research Network)](https://twitter.com/OpenAppLing)
+* [Methods Fellow, Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/people/methods-fellows)
 * [Data Champion, Univerisity of Cambridge](https://www.data.cam.ac.uk/data-champions-search?page=7)
-
+* [Editor in Chief (2020-2021), Cambridge Educational Research e-Journal](https://cerj.educ.cam.ac.uk/currentissue/)
