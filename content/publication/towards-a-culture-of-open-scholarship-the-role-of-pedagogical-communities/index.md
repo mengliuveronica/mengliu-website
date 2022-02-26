@@ -14,7 +14,7 @@ authors:
   - Samuel J. Westwood & Framework for Open
   - Reproducible Research Training (FORRT)
 doi: http://dx.doi.org/10.1186/s13104-022-05944-1
-publication: BMC Research Notes
+publication: "*BMC Research Notes*"
 abstract: "The UK House of Commons Science and Technology Committee has called
   for evidence on the roles that different stakeholders play in reproducibility
   and research integrity. Of central priority are proposals for improving
