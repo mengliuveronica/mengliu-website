@@ -7,7 +7,7 @@ authors:
   - Meng Liu
   - Quint Oga-Baldwin
 doi: https://doi.org/10.1016/j.system.2022.102762
-publication: System
+publication: "*System*"
 abstract: Adopting a person-centred and multilingual perspective, this study
   drew on self-determination theory and used latent profile analysis to
   investigate the motivational profiles of learners of multiple foreign
