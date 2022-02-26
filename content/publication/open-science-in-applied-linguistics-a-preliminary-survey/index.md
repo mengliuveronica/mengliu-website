@@ -28,6 +28,7 @@ abstract: The first official step toward Open Science (OS) in Applied
   preliminary survey targeting applied linguists, covering topics such as OS
   attitudes, OS practices and perceived barriers to OS practices.
 draft: false
+url_pdf: https://www.researchgate.net/publication/355712301_Open_Science_in_Applied_Linguistics_A_Preliminary_Survey
 featured: false
 image:
   filename: featured
