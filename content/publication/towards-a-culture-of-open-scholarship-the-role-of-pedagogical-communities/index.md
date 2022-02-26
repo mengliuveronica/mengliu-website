@@ -11,8 +11,8 @@ authors:
   - Sam Parsons
   - Mahmoud Medhat Elsherif
   - Leticia Micheli
-  - Samuel J. Westwood & Framework for Open
-  - Reproducible Research Training (FORRT)
+  - Samuel J. Westwood
+  - FORRT
 doi: http://dx.doi.org/10.1186/s13104-022-05944-1
 publication: "*BMC Research Notes*"
 abstract: "The UK House of Commons Science and Technology Committee has called
