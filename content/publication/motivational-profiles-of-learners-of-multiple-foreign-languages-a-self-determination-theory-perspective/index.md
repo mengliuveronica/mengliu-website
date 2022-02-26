@@ -4,7 +4,7 @@ title: "Motivational profiles of learners of multiple foreign languages: A
 publication_types:
   - "2"
 authors:
-  - Meng Liu
+  - "**Meng Liu**"
   - Quint Oga-Baldwin
 doi: https://doi.org/10.1016/j.system.2022.102762
 publication: "*System*"
