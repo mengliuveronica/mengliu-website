@@ -72,10 +72,10 @@ highlight_name: TRUE
 
 Meng Liu is a PhD candidate at the Second Language Education Group, Faculty of Education, University of Cambridge. Passionate about language education, she taught English in China, both in the private and public sectors, for over seven years before coming to Cambridge for her PhD. 
 
-Meng's substantive research interest lies in the psychology of language learning, concerning topics such as motivation, self-concept, multilingualism and interculturality. She is also passionate about research methodology, with a particular interest in quantitative and mixed methods research, research synthesis and metascience. 
+Meng's substantive research interest lies in the psychology of language learning, concerning topics such as motivation, self-concept, multilingualism and interculturality. She is also passionate about research methodology, with a particular interest in quantitative and mixed methods research, research synthesis and metascience. Besides her PhD, Meng is working towards a master’s degree in Social Science Data Analysis. She led several initiatives to promote open and transparent research while working as the chief editor at the graduate-led Cambridge Educational Research e-Journal (2020-2021). She is a Methods Fellow at Cambridge Digital Humanities, a Cambridge University Data Champion, vice-chair of the Motivation SIG at IAPLL and co-convenor of Open Applied Linguistics (AILA ReN). She is also the recipient of Honourable Mention for 2022 Faculty of Education Doctoral Student Excellence Award (2 recipients in total).   
 
 ### Academic Roles and Services
-* [Founder/Convener, Open Applied Linguistics (AILA Research Network)](https://twitter.com/OpenAppLing)
-* [Methods Fellow, Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/people/methods-fellows)
+* [Founder/Convenor, Open Applied Linguistics (AILA Research Network)](https://openappliedlinguistics.org/about)
+* [Methods Fellow, Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/about/people/meng-liu/)
 * [Data Champion, Univerisity of Cambridge](https://www.data.cam.ac.uk/data-champions-search?page=7)
 * [Editor in Chief (2020-2021), Cambridge Educational Research e-Journal](https://cerj.educ.cam.ac.uk/currentissue/)
